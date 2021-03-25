@@ -9,8 +9,6 @@
 
 This is an application where your main objective is a small application of activities to do, to train a little more about state manipulation in React.
 
-<br>
-
 # :pushpin: Table of Contents
 
 * [Technologies](#-technologies)
