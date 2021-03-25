@@ -9,7 +9,7 @@
 
 This is an application where your main objective is a small application of activities to do, to train a little more about state manipulation in React.
 
-<img src="https://github.com/monteiro-alexandre/ignite-reactjs-todo/blob/master/.github/assets/todo.png" alt="to.do" width="100%"/>
+<img src="https://raw.githubusercontent.com/monteiro-alexandre/ignite-reactjs-todo/main/.github/assets/todo.png" alt="to.do" width="100%"/>
 
 # :pushpin: Table of Contents
 
